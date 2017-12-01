@@ -34,5 +34,9 @@ class ViewController: UIViewController {
     func newBranch1(){
         NSLog("newBranch1");
     }
+    
+    func newBranch2(){
+        NSLog("newBranch2");
+    }
 }
 
