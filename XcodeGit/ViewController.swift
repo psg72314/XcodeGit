@@ -30,5 +30,9 @@ class ViewController: UIViewController {
         NSLog("master");
         NSLog("commit5");
     }
+    
+    func newBranch1(){
+        NSLog("newBranch1");
+    }
 }
 
