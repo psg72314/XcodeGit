@@ -38,6 +38,7 @@ class ViewController: UIViewController {
     func newBranch2(){
         NSLog("newBranch2");
         NSLog("newBranch22");
+        NSLog("commit6");
     }
 }
 
