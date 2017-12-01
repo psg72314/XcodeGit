@@ -25,5 +25,8 @@ class ViewController: UIViewController {
         NSLog("commit2");
     }
 
+    func master(){
+        NSLog("master");
+    }
 }
 
