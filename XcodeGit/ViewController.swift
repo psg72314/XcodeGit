@@ -39,6 +39,7 @@ class ViewController: UIViewController {
         NSLog("newBranch2");
         NSLog("newBranch22");
         NSLog("commit6");
+        NSLog("newBranch222");
     }
 }
 
