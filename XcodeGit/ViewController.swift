@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     }
 
     func test(){
-        NSLog("commit7");
+        NSLog("commit8");
         NSLog("commit3");
         NSLog("commit2");
     }
